@@ -403,7 +403,7 @@
 			<item command="CMD_PREVIEW_REDUCTION_RATIO_4" />
 			<item command="CMD_PREVIEW_REDUCTION_RATIO_8" />
 			<item command="CMD_OPEN_ONIONSKIN_SETTING" />
-			<item command="CMD_AUTO_CREATE_DEFORMERS" />
+			<item command="CMD_AUTO_CREATE_DEFORMERS" shortcut="A" />
 			<item command="CMD_ADJUST_BOUNDING_BOX_ANGLE" />
 			<item command="CMD_OPEN_PARAMETER_GROUP_SETTING" />
 			<item command="CMD_AUTO_CREATE_FACE_DEFORMER" />
