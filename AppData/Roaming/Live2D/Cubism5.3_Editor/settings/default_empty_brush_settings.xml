@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?version CArtPathDefaultBrushSetting:1?>
+<?version SerializeFormatVersion:2?>
+<?import com.live2d.cubism.doc.model.drawable.artPath.CArtPathDefaultBrushSetting?>
+<?import com.live2d.type.CArtPathBrushGuid?>
+<root>
+	<shared />
+	<main>
+		<CArtPathDefaultBrushSetting>
+			<f xs.n="width">10.0</f>
+			<f xs.n="opacity">1.0</f>
+			<f xs.n="color_r">0.0</f>
+			<f xs.n="color_g">0.0</f>
+			<f xs.n="color_b">0.0</f>
+			<f xs.n="color_a">0.0</f>
+			<CArtPathBrushGuid xs.n="brushGuid" uuid="00000000-0000-0000-0000-000000000000" note="(no debug info)" />
+		</CArtPathDefaultBrushSetting>
+	</main>
+</root>
+
